@@ -10,7 +10,9 @@
  * Estudando: Desenvolvimento android.
   
  * Sobre mim: Gosto de desafios, tecnologia e empreendedorismo.
+
+
   
-  
+ 
    
   
