@@ -1,13 +1,13 @@
 # Bruno Bandeira
   
-  ## Olá!
- *.Buscando novos desafios.
+  ## Olá, sejam bem vindos!
+ *Buscando novos desafios.
  
-  *.Buscando colaborar com projetos desafiadores.
+ *Buscando colaborar com projetos desafiadores.
   
-  *.Minha stack: JAVA, MySQL e git.
+ *Minha stack: JAVA, MySQL e git.
   
-  *.Estudando: Desenvolvimento android.
+ *Estudando: Desenvolvimento android.
   
-  *.Sobre mim: Gosto de desafios, tecnologia e empreendedorismo.
+ *Sobre mim: Gosto de desafios, tecnologia e empreendedorismo.
   
