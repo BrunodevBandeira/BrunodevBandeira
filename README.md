@@ -1,6 +1,6 @@
 # Bruno Bandeira
 
- ## Olá, sejam bem vindos!
+ ## Olá, sejam bem vindos 👋!
  * Estou buscando novos desafios.
  
  * Buscando colaborar com projetos desafiadores.
