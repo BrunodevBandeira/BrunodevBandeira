@@ -11,6 +11,8 @@
   
  * Sobre mim: Gosto de desafios, tecnologia e empreendedorismo.
  
+ * ✉️:brunodev29ab@gmail.com
+ 
  
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
