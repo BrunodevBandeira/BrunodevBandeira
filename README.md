@@ -1,6 +1,3 @@
 # BrunodevBandeira
-**eu**
- çlplp´l´plp´lp´lp´l´pl´ppokkokpokokopkopkopkopopopkopkopkpokopk
- okpokopkpokpokpokoppkkooppkpokpokpokpokpo
- kpokopkpokopkopkopkokokokpokopkpokpok
- kpokpokopko
+(https://www.linux.org/)
+ 
