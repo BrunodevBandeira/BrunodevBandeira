@@ -49,9 +49,10 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/guests/hd/partykeanu.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pokeparrot.gif" width="30" height="30"/>
+
 </div>
-
-
 
   
  
