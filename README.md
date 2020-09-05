@@ -2,7 +2,7 @@
 
  ## Olá, sejam bem vindos 👋!
  
- ## Sobre mim 
+  ## Sobre mim  <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" width="30" height="30"/>
   
  * Objetivo     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
 : Estou buscando novos desafios.
