@@ -1,9 +1,9 @@
-# Bruno Bandeira
+# Bruno Bandeira  <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="30" height="30"/>
 
  ## Olá, sejam bem vindos 👋!
  
  ## Sobre mim 
- 
+  
  * Objetivo     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
 : Estou buscando novos desafios.
  
