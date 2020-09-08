@@ -8,9 +8,6 @@
  * Objetivo     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
 : Estou buscando novos desafios.
  
- * Propósito     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
- :Buscando colaborar com projetos desafiadores.
-  
  * Minha stack   <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
  : JAVA, MySQL, Git e Linux.
   
@@ -52,7 +49,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/guests/hd/partykeanu.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/pokeparrot.gif" width="30" height="30"/>
-
 </div>
 
   
