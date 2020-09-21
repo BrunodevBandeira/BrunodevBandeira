@@ -6,13 +6,13 @@
   ## Sobre mim  <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" width="30" height="30"/>
   
  * Objetivo     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
-: Estou buscando novos desafios.
+: Procurando agregar valor com projetos desafiadores.
  
  * Minha stack   <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
  : JAVA, MySQL, Git e Linux.
   
  * Estudando     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
- : Desenvolvimento android.
+ : Desenvolvimento android e Regex.
   
  * Sobre mim   <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
  : Gosto de desafios, tecnologia e empreendedorismo.
