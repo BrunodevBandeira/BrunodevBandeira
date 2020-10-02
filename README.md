@@ -12,7 +12,7 @@
  : JAVA, MySQL, Git e Linux.
   
  * Estudando     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
- : Desenvolvimento android e Regex.
+ : Amazon - AWS
   
  * Sobre mim   <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
  : Gosto de desafios, tecnologia e empreendedorismo.
