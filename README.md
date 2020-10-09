@@ -6,7 +6,7 @@
   ## Sobre mim  <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" width="30" height="30"/>
   
   * **Sobre mim**   <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
- : Atualmente estou estudando engenharia da computação na Universidade São Judas, escolhi a área de TI pois Gosto de desafios, tecnologia e empreendedorismo.
+ : Atualmente estou estudando engenharia da computação na Universidade São Judas, escolhi a área de TI pois gosto de desafios, tecnologia e empreendedorismo.
   
  * **Objetivo**     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
 : Procurando sempre evoluir e colaborar com projetos desafiadores.
