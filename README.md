@@ -1,7 +1,8 @@
 # Bruno Bandeira  <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="30" height="30"/>
 
  ## Olá, sejam bem vindos 👋!
- 
+   [![Visits Badge](https://badges.pufler.dev/visits/brunodevbandeira/brunodevbandeira)](https://badges.pufler.dev/visits/brunodevbandeira/brunodevbandeira)
+
  
   
   * **Sobre mim**   <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" width="30" height="30"/>
@@ -26,8 +27,6 @@
  * ✉️ **Meus contatos:** [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Bandeira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-alves-bandeira-64193515a/)](https://www.linkedin.com/in/bruno-alves-bandeira-64193515a/)
 |
 [![Icloud Badge](https://img.shields.io/badge/-brunodev29ab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodev29ab@gmail.com)](mailto:brunodev29ab@gmail.com)  
-
-
 
 
  
@@ -55,4 +54,4 @@
             
  
    
-  
+  [![Stats](https://github-readme-stats.vercel.app/api?username=brunodevbandeira&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=brunodevbandeira&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://camo.githubusercontent.com/8847cc086ad4e08b4d52c0588b0e641fc8364c2fde6a09cdf8144ae75a537e0f/68747470733a2f2f6769646967692e636f6d2f63646e2f6c6f76652e676966" width="245">
