@@ -54,10 +54,6 @@
      <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="30" height="30"/>
  <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="30" height="30"/>
      <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="30" height="30"/>
-     <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="30" height="30"/>
-
 </div>
 
             
