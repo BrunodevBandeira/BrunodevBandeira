@@ -15,7 +15,7 @@
  : Atualmente estou estudando engenharia da computação na Universidade São Judas, e sou aluno do BootCamp da Generation Brasil, escolhi a área de TI pois gosto de desafios, tecnologia, empreendedorismo e da liberdade de criação que essa área tem.
   
  * **Objetivo**     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
-: Procurando sempre evoluir e colaborar com projetos desafiadores.
+: Procurando sempre evoluir.
  
  * **Minha stack**   <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
  : ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=FF0000)
