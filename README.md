@@ -23,7 +23,10 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FFFF00)
-  
+![Spring](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=spring&logoColor=00008B)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=8B0000)
+
+
  * **Estudando**     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
  : ![SQL](https://img.shields.io/badge/-Amazon-000000?style=flat&logo=Amazon-AWS)
    [![SQL](https://img.shields.io/badge/-GenerationBrasil-ffa500?style=flat&logo=GenerationBrasil)](https://brazil.generation.org/)
