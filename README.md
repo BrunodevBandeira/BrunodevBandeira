@@ -25,6 +25,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FFFF00)
 ![Spring](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=spring&logoColor=00008B)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=8B0000)
+![BootStrap](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=BootStrap&logoColor=4B0082)
+
 
 
  * **Estudando**     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
