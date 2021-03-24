@@ -26,6 +26,10 @@
 ![Spring](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=spring&logoColor=00008B)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=8B0000)
 ![BootStrap](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=BootStrap&logoColor=4B0082)
+![HTML5](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5&logoColor=FF4500)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=836FFF)
+
+
 
 
 
