@@ -1,4 +1,4 @@
-# Bruno Bandeira  <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="30" height="30"/>
+# <Bruno Bandeira/>  <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="30" height="30"/>
 
  ## Olá, sejam bem vindos 👋!
  
