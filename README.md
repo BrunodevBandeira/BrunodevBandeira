@@ -2,7 +2,6 @@
 
  <h2 align="center"> Olá, sejam bem vindos 👋!<h2>
  
- <p align="center">
    <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="30" height="30"/>      <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
   
   [![Visits Badge](https://badges.pufler.dev/visits/brunodevbandeira/brunodevbandeira)](https://badges.pufler.dev/visits/brunodevbandeira/brunodevbandeira)
