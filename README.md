@@ -1,7 +1,7 @@
 <h1 align="center"> < Bruno Bandeira />  
  <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="30" height="30"/> 
  <h1/>
- <h3 align="center"> Olá, sejam bem vindos 👋!<h3/>
+ <h2 align="center"> Olá, sejam bem vindos 👋!<h2/>
  
    <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="30" height="30"/>      <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
   
@@ -10,7 +10,7 @@
 
  
   
-  * **Sobre mim**   <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" width="30" height="30"/>
+  * *Sobre mim*   <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" width="30" height="30"/>
  : Atualmente estou estudando engenharia da computação na Universidade São Judas, e sou aluno do BootCamp da Generation Brasil, escolhi a área de TI pois gosto de desafios, tecnologia, empreendedorismo e da liberdade de criação que essa área tem.
   
  * **Objetivo**     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
