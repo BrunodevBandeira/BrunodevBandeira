@@ -1,7 +1,8 @@
 
-<h1 align="center"> < Bruno Bandeira />  
- <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="30" height="30"/> <br>  Olá, sejam bem vindos 👋! 
-<h1/>
+  # < Bruno Bandeira />  <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="30" height="30"/> 
+ 
+ ## Olá, sejam bem vindos 👋! 
+
  
    <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="30" height="30"/>      <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
   
