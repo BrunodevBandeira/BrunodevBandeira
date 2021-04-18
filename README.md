@@ -1,7 +1,7 @@
 
   # < Bruno Bandeira />  <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="30" height="30"/> 
  
- ## Olá, sejam bem vindos 👋! 
+ ## Olá, sejam bem vindos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
  
    <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="30" height="30"/>      <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
