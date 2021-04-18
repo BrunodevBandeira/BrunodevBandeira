@@ -39,7 +39,7 @@
   
   
  
- * ✉️ **Meus contatos:** [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Bandeira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-alves-bandeira-64193515a/)](https://www.linkedin.com/in/bruno-alves-bandeira-64193515a/)
+ * **Meus contatos:** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>:  [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Bandeira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-alves-bandeira-64193515a/)](https://www.linkedin.com/in/bruno-alves-bandeira-64193515a/)
 |
 [![Icloud Badge](https://img.shields.io/badge/-brunodev29ab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodev29ab@gmail.com)](mailto:brunodev29ab@gmail.com)  
 
