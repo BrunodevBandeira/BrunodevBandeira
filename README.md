@@ -75,8 +75,12 @@
  
    <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=brunodevbandeira&show_icons=true&theme=opa"/>
-   </p>
- 
+	 </p>
+  
+   <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevbandeira&langs_count=10&theme=opa&layout=compact" alt="brunodevbandeira :: Top Langs" />
+	</p>
+  
    
    
 
