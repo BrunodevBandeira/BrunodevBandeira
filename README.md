@@ -1,7 +1,7 @@
 
   # < Bruno Bandeira />  <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="30" height="30"/> 
  
- ## Olá, sejam bem vindos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+ ## Olá, sejam bem vindos 👋! 
 
  
    <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="30" height="30"/>      <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
@@ -73,5 +73,13 @@
 
             
  
+   <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=brunodevbandeira&show_icons=true&theme=opa"/>
+   </p>
+ 
    
-  [![Stats](https://github-readme-stats.vercel.app/api?username=brunodevbandeira&show_icons=true&theme=black)](https://github-readme-stats.vercel.app/api?username=brunodevbandeira&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://camo.githubusercontent.com/8847cc086ad4e08b4d52c0588b0e641fc8364c2fde6a09cdf8144ae75a537e0f/68747470733a2f2f6769646967692e636f6d2f63646e2f6c6f76652e676966" width="200">
+   
+
+   <p align="center">
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+   </p>
