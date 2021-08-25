@@ -33,13 +33,8 @@
 
 
 
-
-
-
-
  * **Estudando**     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
- : ![SQL](https://img.shields.io/badge/-Amazon-000000?style=flat&logo=Amazon-AWS)
- : ![SQL](https://img.shields.io/badge/-Regex-000000?style=flat&logo=Regex)
+ : ![Vue](https://img.shields.io/badge/-Vuejs-000000?style=flat&logo=Vuejs)
 
   
   
@@ -77,15 +72,13 @@
 </div>
 
             
- 
+ <div>
    <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=brunodevbandeira&show_icons=true&theme=opa"/>
-	 </p>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunodevbandeira&show_icons=true&theme=opa"/>
   
-   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevbandeira&langs_count=10&theme=opa&layout=compact" alt="brunodevbandeira :: Top Langs" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevbandeira&langs_count=10&theme=opa&layout=compact" alt="brunodevbandeira :: Top Langs" />
 	</p>
-  
+  </div>
    
    
 
