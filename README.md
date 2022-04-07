@@ -74,9 +74,11 @@
             
  <div>
    <p align="center">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunodevbandeira&show_icons=true&theme=opa"/>
+   <img height="170em" width="600" src="https://github-readme-stats.vercel.app/api?username=brunodevbandeira&show_icons=true&theme=tokyonight"/>
+	   
+
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevbandeira&langs_count=10&theme=opa&layout=compact" alt="brunodevbandeira :: Top Langs" />
+  <img height="250em" width="1200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevbandeira&langs_count=5&theme=tokyonight" alt="brunodevbandeira :: Top Langs" />
 	</p>
   </div>
    
