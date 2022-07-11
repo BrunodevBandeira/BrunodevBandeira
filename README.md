@@ -6,7 +6,26 @@
  
    <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="30" height="30"/>      <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
   
-  [![Visits Badge](https://badges.pufler.dev/visits/brunodevbandeira/brunodevbandeira)](https://badges.pufler.dev/visits/brunodevbandeira/brunodevbandeira)
+
+ ```javascript
+const Bruno = {
+    technologies: {
+            frontEnd: {
+                code: ["Javascript", "Typescript", "HTML", "CSS", "SASS", "Wordpress"],
+            },
+            frameWorks: {
+                code: ["React", "Vue", "bootstrap", "TailwindCSS"],
+            },
+            backEnd: {
+                code: ["Node", "Javascript", "Typescript", "Java", "PHP"],
+            },
+            databases {
+                code: ["Mongo", "MySql", "sqlite", "phpMyAdmin"],
+            },
+    },
+};
+
+```
   
   
    <p align="center">
