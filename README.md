@@ -11,13 +11,13 @@
 const Bruno = {
     technologies: {
             frontEnd: {
-                code: ["Javascript", "Typescript", "HTML", "CSS", "SASS", "Wordpress"],
+                code: ["Javascript", "HTML", "CSS", "Wordpress"],
             },
             frameWorks: {
                 code: ["React", "Vue", "bootstrap", "TailwindCSS"],
             },
             backEnd: {
-                code: ["Node", "Javascript", "Typescript", "Java", "PHP"],
+                code: ["Node", "Typescript", "PHP"],
             },
             databases {
                 code: ["Mongo", "MySql", "sqlite", "phpMyAdmin"],
