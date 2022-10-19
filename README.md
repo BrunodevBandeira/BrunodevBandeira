@@ -8,22 +8,7 @@
   
 
  ```javascript
-const Bruno = {
-    technologies: {
-            frontEnd: {
-                code: ["Javascript", "HTML", "CSS", "Wordpress"],
-            },
-            frameWorks: {
-                code: ["React", "Vue", "bootstrap", "TailwindCSS"],
-            },
-            backEnd: {
-                code: ["Node", "Typescript", "PHP"],
-            },
-            databases {
-                code: ["Mongo", "MySql", "sqlite", "phpMyAdmin"],
-            },
-    },
-};
+const Bruno = "Desenvolvedor Frontend";
 
 ```
   
