@@ -24,7 +24,6 @@ const stack = {
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
     },
-    Fact: "A experiência é um troféu composto por todas as armas que nos feriram"
 };
 
 ```
