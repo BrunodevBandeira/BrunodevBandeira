@@ -10,6 +10,23 @@
  ```javascript
 const Bruno = "Desenvolvedor Frontend";
 
+const stack = {
+    code: ["Javascript", "Typescript"],
+    askMeAbout: ["web dev", "tech", "app dev", "kung0fu"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue", "Wordpress"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node"]
+        },
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+    },
+    Fact: "A experiência é um troféu composto por todas as armas que nos feriram"
+};
+
 ```
   
   
