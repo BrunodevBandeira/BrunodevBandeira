@@ -12,7 +12,7 @@ const Bruno = "Desenvolvedor Frontend";
 
 const stack = {
     code: ["Javascript", "Typescript"],
-    askMeAbout: ["web dev", "tech", "app dev", "kung0fu"],
+    askMeAbout: ["web dev", "tech", "app dev", "kungfu"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue", "Wordpress"],
