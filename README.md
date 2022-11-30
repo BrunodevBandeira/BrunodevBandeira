@@ -8,23 +8,32 @@
   
 
  ```javascript
-const Bruno = "Desenvolvedor Frontend";
-
-const stack = {
-    code: ["Javascript", "Typescript"],
-    askMeAbout: ["web dev", "tech", "app dev", "kungfu"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Wordpress"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node"]
-        },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-    },
+const sobreMim = {
+  name: 'Bruno Bandeira',
+  profession: 'Web Developer',
+  country: 'Brasil',
+  hobbies: [
+    'play games',
+    'watch movies',
+    'Kung-Fu',
+    'Jiujtsu'
+  ],
+  softSkills: [
+    'communication',
+    'teamwork',
+    'leadership',
+    'organization',
+    'stoicism'
+  ]
 };
+
+function faleComigo() {
+  return {
+    email: 'brunobandeira25ab@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/brunodevbandeira/',
+    whatsapp: '+55 11 93215-4488',
+  }
+}
 
 ```
   
