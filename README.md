@@ -4,9 +4,11 @@
  ## Hello! Welcome 👋!              
         
 
-  <p align="center">
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
+  <p align="left">
+   <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="120">
    </p>
+   
+
 
  ```javascript
 const sobreMim = {
