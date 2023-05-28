@@ -24,8 +24,16 @@ const sobreMim = {
     'leadership',
     'organization',
     'stoicism'
+  ],
+  hardSkills: [
+    'Javascript',
+    'Vue',
+    'React',
+    'SCSS',
+    'CSS',
+    'Node'
   ]
-};
+ };
 
 function faleComigo() {
   return {
