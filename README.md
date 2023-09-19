@@ -16,17 +16,16 @@ const sobreMim = {
   profession: 'Web Developer',
   country: 'Brasil',
   hobbies: [
-    'play games',
-    'watch movies',
     'Kung-Fu',
-    'Jiujtsu'
+    'Jiujtsu',
+    'Jogar video game',
+    'Assistir filmes/series/anime'
   ],
   softSkills: [
-    'communication',
-    'teamwork',
-    'leadership',
-    'organization',
-    'stoicism'
+    'comunicação',
+    'trabalho em equipe',
+    'liderança',
+    'organização'
   ],
   hardSkills: [
     'Javascript',
