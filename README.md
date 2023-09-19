@@ -34,7 +34,8 @@ const sobreMim = {
     'React',
     'SCSS',
     'CSS',
-    'Node'
+    'Node',
+    'Java'
   ]
  };
 
