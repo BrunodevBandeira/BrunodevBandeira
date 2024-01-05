@@ -28,7 +28,8 @@ const sobreMim = {
     'SCSS',
     'CSS',
     'Node',
-    'Java'
+    'Java',
+    'Docker'
   ],
   hobbies: [
     'Kung-Fu',
@@ -53,7 +54,7 @@ function faleComigo() {
   
    <p align="center">
 	  <img height="250em" width="1200" 
-	       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevbandeira&layout=donut&langs_count=6&theme=tokyonight" 
+	       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevbandeira&layout=donut&langs_count=7&theme=tokyonight" 
 	       alt="brunodevbandeira :: Top Langs" 
 	 />
 
