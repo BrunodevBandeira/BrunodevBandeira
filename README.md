@@ -44,7 +44,7 @@ function faleComigo() {
     email: 'brunobandeira25ab@gmail.com',
     linkedin: 'https://www.linkedin.com/in/brunodevbandeira/',
     whatsapp: '+55 11 93215-4488',
-    currículo: 'https://curriculodevfullstack.netlify.app/',
+    currículo: 'https://portifoliodevfullstack.netlify.app/',
     16Personalities: 'https://www.16personalities.com/br/personalidade-entj'
   }
 }
