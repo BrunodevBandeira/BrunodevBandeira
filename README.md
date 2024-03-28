@@ -13,7 +13,7 @@
  ```javascript
 const sobreMim = {
   name: 'Bruno Bandeira',
-  profession: 'Web Developer',
+  profession: 'FullStack Developer',
   country: 'Brasil',
   softSkills: [
     'comunicação',
@@ -22,13 +22,13 @@ const sobreMim = {
     'organização'
   ],
   hardSkills: [
+    'Java',
+    'Springboot',
     'Javascript',
     'Vue',
     'React',
     'SCSS',
     'CSS',
-    'Node',
-    'Java',
     'Docker'
   ],
   hobbies: [
